@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriaa-b
-- 👀 I’m interested in reading, cooking and how to build games!
+- 👀 I’m interested in reading, cooking and how to build video games!
 - 🌱 I’m currently learning Python, HTML and GitHub.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend wayy to much money on concert tickets!
