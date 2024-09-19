@@ -1,7 +1,7 @@
 - 👋 Hi
   
 - 🔭 I’m currently working at Code Ninjas
-- 🌱 I’m currently learning Python, HTML and GitHub.
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend wayy to much money on concert tickets!
 
